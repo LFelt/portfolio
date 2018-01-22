@@ -1,0 +1,16 @@
+.jumbotron {
+  height: 44rem;
+  padding-top: 10rem;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  background-image: url("../images/shoot.jpg");
+  height: 100vh;
+  overflow: hidden;
+}
+
+.text {
+  padding-top: 20rem;
+}
