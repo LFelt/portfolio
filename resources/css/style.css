@@ -1,5 +1,4 @@
 .jumbotron {
-  height: 44rem;
   padding-top: 10rem;
   text-align: center;
   background-size: cover;
@@ -13,4 +12,17 @@
 
 .text {
   padding-top: 20rem;
+}
+
+/*fix photo alignment, different photo?*/
+.banner {
+  height: 34rem;
+  padding-top: 10rem;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  background-image: url("../images/shoot.jpg");
+  overflow: hidden;
 }
