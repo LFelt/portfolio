@@ -26,3 +26,7 @@
   background-image: url("../images/shoot.jpg");
   overflow: hidden;
 }
+
+.container {
+  padding: 1rem;
+}
