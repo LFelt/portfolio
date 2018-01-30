@@ -33,7 +33,7 @@
 }
 
 .photo img {
-  width: 35%;
+  width: 55%;
   height: auto;
   padding: 2rem;
   float: left;
@@ -61,4 +61,12 @@
 
 p {
   font-size: 1.5rem;
+}
+
+.insta {
+  display: flex;
+}
+
+.photos {
+  padding: 1rem;
 }
