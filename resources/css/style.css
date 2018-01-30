@@ -30,11 +30,11 @@
 
 .container {
   padding: 1rem;
-  
+
 }
 
 .photo img {
-  width: 55%;
+  width: 35%;
   height: auto;
   padding: 2rem;
   float: left;
@@ -53,21 +53,24 @@
   background-color: #7D3F7C;
   color: lightgrey;
   display: flex;
+  border-bottom: 2px lightgrey solid;
 }
 
 .blog {
   background-color: #D27497;
   display: flex;
+  border-bottom: 2px lightgrey solid;
 }
 
 p {
   font-size: 1.5rem;
 }
 
-.insta {
-  display: flex;
-}
-
-.photos {
-  padding: 1rem;
+footer {
+  background-color: hsl(257, 24%, 47%);
+  justify-content: center;
+   display: flex;
+   text-align: center;
+   padding: 10px;
+   color: white;
 }
