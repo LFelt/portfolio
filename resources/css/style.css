@@ -35,7 +35,7 @@
 .photo img {
   width: 35%;
   height: auto;
-  padding: 16px;
+  padding: 2rem;
   float: left;
 }
 
@@ -47,15 +47,18 @@
   padding-top: .15rem;
 }
 
-img {
-
-}
 
 .wine {
   background-color: #7D3F7C;
   color: lightgrey;
+  display: flex;
 }
 
 .blog {
   background-color: #D27497;
+  display: flex;
+}
+
+p {
+  font-size: 1.5rem;
 }
