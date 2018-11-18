@@ -80,7 +80,7 @@ table {
 }
 
 thead th {
-  background: hsl(257, 24%, 47%);
+  background: #D27497;
   color: #FFF;
   font-size: 16px;
   letter-spacing: 2px;
@@ -88,7 +88,7 @@ thead th {
 }
 
 tr {
-  background: #f0f0f5;
+  background: #f9ebf0;
   border-bottom: 1px solid #FFF;
   margin-bottom: 5px;
 }
